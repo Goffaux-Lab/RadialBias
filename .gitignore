@@ -1,0 +1,9 @@
+/data
+/old_code
+/stim
+**/*.bmp 
+**/*.jpg
+RADAPT_gratings_par.txt
+RADAPT_gratings_par.m
+RadApt1.0_CHPA3112.py
+RadApt1.0_MAVI1806.py
